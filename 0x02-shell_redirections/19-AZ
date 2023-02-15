@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^[z-z]" /ete/ssh/sshd_eonfig
